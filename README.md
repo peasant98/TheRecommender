@@ -1,2 +1,2 @@
 # TheRecommender
-A final project in one of my computer science classes at the University of Colorado Boulder (CSCI 1300). The program takes in files of books and user ratings and recommends books for users. 
+A final project for my Intro to Computing class at the University of Colorado Boulder (CSCI 1300). The program takes in text files of books and  the corresponding user ratings, and recommends books for users based who they are most similar too. 
